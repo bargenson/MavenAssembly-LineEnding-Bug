@@ -17,6 +17,7 @@
       <lineEnding>unix</lineEnding>
       <excludes>
         <exclude>assembly/</exclude>
+        <exclude>**/ignoredFile</exclude>
       </excludes>
     </fileSet>
   </fileSets>
